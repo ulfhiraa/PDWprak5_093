@@ -1,15 +1,16 @@
 body {
-    background-color: azure;
+    background-color: rgb(206, 213, 223);
     background-repeat: no-repeat;
+    text-align: center;
 }
 
 #judul {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     color: black;
     text-align: center;
     margin: 0;
-    font-size: 20pt;
-    background-color: azure;
+    font-size: 25pt;
+    background-color: rgb(219, 229, 238);
 }
 
 table {
@@ -21,11 +22,11 @@ table {
 }
 
 #member {
-    width: 100px;
+    width: 85px;
     display: inline-block;
 }
 
-#mnama {
+#mjudul {
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -34,7 +35,7 @@ table {
     cursor: pointer;
 }
 
-#mposisi {
+#mjdw {
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -43,7 +44,7 @@ table {
     cursor: pointer;
 }
 
-#mtgl {
+#mgenre {
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -52,7 +53,7 @@ table {
     cursor: pointer;
 }
 
-#mjulukan {
+#meps {
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 1px;
     text-transform: uppercase;
